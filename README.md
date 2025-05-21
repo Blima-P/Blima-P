@@ -31,7 +31,7 @@ Faço estagio como DEV na CAESB atualmente.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px ;" 
     src="https://github-readme-stats.vercel.app/api?username=Blima-P&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" />
 
 <img 
