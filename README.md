@@ -2,7 +2,7 @@
 
 Me chamo Pedro Braga de Lima, Tenho 19 anos e sou de Brasilia.<br>
 Conclui meu ensino médio no Marista. Atualmente, estou cursando Engenharia de Software na UCB. Sou obcecado em tecnologia e <br> 
-Faço estagio como DEV na CAESB atualmente.
+Faço estagio como DEV na CAESB atualmente.<br>
 ## Redes para contato ☎️
 <div> 
   <a href="https://instagram.com/Blima.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
