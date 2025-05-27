@@ -11,7 +11,7 @@ Faço estagio como DEV na CAESB atualmente.<br>
   
 </div>
 
-## Linguagens e Tecnologias 🤖
+## Linguagens e Tecnologias (Aprendidas/Sendo estudadas) 🤖
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
