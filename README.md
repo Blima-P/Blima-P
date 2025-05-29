@@ -78,8 +78,6 @@
 </div>
 
 <br>
-
-<!-- Animação Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
