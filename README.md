@@ -25,23 +25,36 @@
   </a> 
 </div>
 
-### 💻 Main Skills:
-![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=222222)&nbsp;
-![C](https://img.shields.io/badge/-C-222222?style=for-the-badge&logo=c&logoColor=00599C&labelColor=222222)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=for-the-badge&logo=html5&logoColor=orange&labelColor=222222)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=222222)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=222222)&nbsp;
-![Portugol](https://img.shields.io/badge/-Portugol-222222?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=222222)&nbsp;
+### <div align="center"> <strong>🔧Main Skills</strong></div>
 
-### 📚 Currently Studying:
-![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=222222)&nbsp;
-![C](https://img.shields.io/badge/-C-222222?style=for-the-badge&logo=c&logoColor=00599C&labelColor=222222)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=green&labelColor=222222)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-222222?style=for-the-badge&logo=yarn&logoColor=blue&labelColor=222222)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo&logoColor=white&labelColor=222222)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=222222)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white&labelColor=222222)&nbsp;
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=222222)&nbsp;
+<div align="center">
+
+![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
+![C](https://img.shields.io/badge/-C-222222?style=for-the-badge&logo=c&logoColor=00599C)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Portugol](https://img.shields.io/badge/-Portugol-222222?style=for-the-badge&logo=codeforces&logoColor=white)&nbsp;
+
+</div>
+
+---
+
+### <div align="center"><strong>📚Currently Studying</strong></div>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
+![C](https://img.shields.io/badge/-C-222222?style=for-the-badge&logo=c&logoColor=00599C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-222222?style=for-the-badge&logo=yarn&logoColor=blue)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-222222?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+</div>
+
 <br>
 <div align="center" style="margin-top: 40px;">
   <div style="
