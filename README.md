@@ -42,3 +42,30 @@
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=222222)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white&labelColor=222222)&nbsp;
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=222222)&nbsp;
+<br>
+<div align="center" style="margin-top: 40px;">
+  <div style="
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 16px;
+    padding: 24px 32px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+    display: inline-block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  ">
+    <p style="margin: 0; font-size: 18px; color: #4a4a4a; font-weight: 500;">
+      👁‍🗨 Profile Visitors
+    </p>
+    <img 
+      src="https://profile-counter.glitch.me/Blima-p/count.svg" 
+      alt="Visitor count"
+      style="margin-top: 12px; filter: hue-rotate(160deg) brightness(1.1) saturate(2);"
+    />
+  </div>
+</div>
+<br>
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=footer" 
+  style="transform: rotate(180deg);" 
+/>
