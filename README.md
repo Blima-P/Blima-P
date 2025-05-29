@@ -15,13 +15,13 @@
 
 <div align="center"> 
   <a href="https://www.instagram.com/Blima.__/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-AAAAAA?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:cmp.1a.pbl08120@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:cmp.1a.pbl08120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/****/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
 
