@@ -82,3 +82,4 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=footer" 
   style="transform: rotate(180deg);" 
 />
+.
