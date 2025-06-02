@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Braga+de+Lima;I'm+19+years+old;I'm+from+Brazil;I+Study+Software+Engineering;Welcome!+😊)](https://git.io/typing-svg)
 
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=222222" alt="Pedro Braga github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&bg_color=222222" />
