@@ -48,14 +48,11 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![C](https://img.shields.io/badge/-C-222222?style=for-the-badge&logo=c&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-222222?style=for-the-badge&logo=yarn&logoColor=blue)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-222222?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C++](https://img.shields.io/badge/-C++-222222?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-222222?style=for-the-badge&logo=csharp&logoColor=purple)&nbsp;
+![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 
 </div>
 
