@@ -1,10 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=header"/>
+<!-- 🌟 Pedro Braga de Lima - Developer's Atelier -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=header"/>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Braga+de+Lima;I'm+19+years+old;I'm+from+Brazil;I+Study+Software+Engineering;Welcome!+😊"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Braga+de+Lima;I'm+19+years+old;I'm+from+Brazil;I+Study+Software+Engineering;Welcome!+😊)](https://git.io/typing-svg)
+---
 
-<br>
+### 👋 Sobre Mim
+<div align="left">
+  <p>
+    Olá! eu sou o <strong>Pedro Braga de Lima</strong>, Estudante e Estagiário de Engenharia de Software!<br><br>
+    Me chamo Pedro Braga de Lima, tenho <strong>19 anos</strong> e sou de <strong>Brasília</strong>.<br>
+    Concluí meu ensino médio no <strong>Marista</strong>. Atualmente, estou cursando <strong>Engenharia de Software na UCB</strong>.<br>
+    Sou obcecado por tecnologia e atualmente faço estágio como <strong>Desenvolvedor na CAESB</strong> 💻🚀.
+  </p>
+</div>
+
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=222222" alt="Pedro Braga github stats" /> 
