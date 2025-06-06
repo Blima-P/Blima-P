@@ -6,22 +6,22 @@
 </p>
 
 ---
-<div align="center">
 
 ### 👤 Sobre Mim
+<div align="center">
   <p>
     Olá! eu sou o <strong>Pedro Braga de Lima</strong>, Estudante e Estagiário de Engenharia de Software!<br><br>
     Me chamo Pedro Braga de Lima, tenho <strong>19 anos</strong> e sou de <strong>Brasília</strong>.<br>
     Concluí meu ensino médio no <strong>Marista</strong>. Atualmente, estou cursando <strong>Engenharia de Software na UCB</strong>.<br>
-    Sou obcecado por tecnologia e atualmente faço estágio como <strong>DEV na CAESB</strong> 💻⚙️.
+    Sou obcecado por tecnologia e atualmente faço estágio como <strong>DEV na CAESB</strong> 💻⚙️⚽.
   </p>
 </div>
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=BBE1FA&bg_color=002B5B" alt="Pedro Braga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=00BFFF&text_color=BBE1FA&bg_color=002B5B" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=BBE1FA&bg_color=002B5B" alt="Pedro Braga github stats" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=00BFFF&text_color=BBE1FA&bg_color=002B5B" />
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=002B5B&color=00BFFF&line=BBE1FA&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
