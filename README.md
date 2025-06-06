@@ -6,9 +6,10 @@
 </p>
 
 ---
+<div align="center">
 
 ### 👤 Sobre Mim
-<div align="center">
+
   <p>
     Olá! eu sou o <strong>Pedro Braga de Lima</strong>, Estudante e Estagiário de Engenharia de Software!<br><br>
     Me chamo Pedro Braga de Lima, tenho <strong>19 anos</strong> e sou de <strong>Brasília</strong>.<br>
