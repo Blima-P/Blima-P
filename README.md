@@ -24,11 +24,11 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 ## 📈 Estatísticas
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=CCCCCC&bg_color=002B5B" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=00BFFF&text_color=CCCCCC&bg_color=002B5B" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1C1C1C" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=1C1C1C" />
 </div>
 
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=002B5B&color=00BFFF&line=BBBBBB&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=1C1C1C&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
