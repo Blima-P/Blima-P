@@ -1,19 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Braga+de+Lima;Tenho+19+anos;Sou+de+Brasília;Curso+Engenharia+de+Software;Seja+bem-vindo!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro+Braga+de+Lima;I'm+19+years+old;I'm+from+Brasília,+Brazil;Software+Engineering+Student;Welcome!+🚀" />
 </p>
 
 ---
 
 <div align="center">
 
-## 👤 Sobre Mim
+## 👤 About Me
 
-Olá! Sou o <strong>Pedro Braga de Lima</strong>, estudante e estagiário em <strong>Engenharia de Software</strong> na UCB.  
-Atualmente tenho <strong>19 anos</strong> e moro em <strong>Brasília</strong>.  
-Sou apaixonado por tecnologia, desenvolvimento e inovação.  
-Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
+Hi! I'm <strong>Pedro Braga de Lima</strong>, a Software Engineering student and intern at <strong>CAESB</strong>.  
+I'm <strong>19 years old</strong> and live in <strong>Brasília, Brazil</strong>.  
+I’m passionate about technology, development, and innovation.  
+Currently pursuing my degree at <strong>UCB</strong> and working as a <strong>DEV intern</strong> 💻⚙️⚽
 
 </div>
 
@@ -21,14 +21,14 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1C1C1C" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=1C1C1C" />
 </div>
 
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=1C1C1C&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=1C1C1C&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -36,7 +36,7 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 🏆 Conquistas
+## 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=Blima-p&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Experience" />
 
@@ -46,7 +46,7 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 🌐 Redes Sociais
+## 🌐 Social Media
 
 <a href="https://www.instagram.com/Blima.__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-007BFF?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -64,7 +64,7 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 🛠️ Habilidades
+## 🛠️ Main Skills
 
 ![Java](https://img.shields.io/badge/-Java-002B5B?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![C](https://img.shields.io/badge/-C-002B5B?style=for-the-badge&logo=c&logoColor=00BFFF)
@@ -79,7 +79,7 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 📚 Atualmente Estudando
+## 📚 Currently Learning
 
 ![C++](https://img.shields.io/badge/-C++-002B5B?style=for-the-badge&logo=c%2B%2B&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/-Python-002B5B?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -92,9 +92,9 @@ Trabalho como <strong>DEV estagiário na CAESB</strong> 💻⚙️⚽
 
 <div align="center">
 
-## 👀 Visitantes
+## 👀 Visitors
 
-<img src="https://profile-counter.glitch.me/Blima-p/count.svg" alt="Contador de Visitantes" />
+<img src="https://profile-counter.glitch.me/Blima-p/count.svg" alt="Visitor counter" />
 
 </div>
 
