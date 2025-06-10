@@ -43,7 +43,6 @@ Currently pursuing my degree at <strong>UCB</strong> and working as a <strong>DE
 </div>
 
 ---
-
 <div align="center">
 
 ## 🌐 Social Media
