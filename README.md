@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro+Braga+de+Lima;I'm+19+years+old;I'm+from+Brasília,+Brazil;Software+Engineering+Student;Welcome!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro+Braga+de+Lima.;I'm+19+years+old;I'm+from+Brasília,+Brazil;Software+Engineering+Student;Welcome!+🚀" />
 </p>
 
 ---
