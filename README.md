@@ -98,7 +98,7 @@ Currently pursuing my degree at <strong>UCB</strong> and working as a <strong>DE
 
 <div align="center">
 
-## 🐍 Snake Game Contributions
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
