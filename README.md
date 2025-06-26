@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 👤 Sobre Mim
+## Sobre Mim
 
 Sou <strong>Pedro Braga de Lima</strong>, estudante de Engenharia de Software e estagiário na <strong>CAESB</strong>.  
 Tenho <strong>19 anos</strong>, moro em <strong>Brasília</strong> e sou apaixonado por desenvolvimento e tecnologia.  
@@ -20,7 +20,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 🛠️ Habilidades
+## Habilidades
 
 ![C](https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 📚 Estudando Atualmente
+## Estudando Atualmente
 
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição |
 |---|---|
@@ -62,7 +62,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 📊 GitHub Estatísticas
+## GitHub Estatísticas
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117" />
@@ -77,7 +77,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 🌐 Redes Sociais
+## Redes Sociais
 
 <a href="https://www.instagram.com/Blima.__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -95,7 +95,7 @@ Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação �
 
 <div align="center">
 
-## 🐍 Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
