@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Olá,+sou+Pedro+Braga+de+Lima.;Brasília+-+Brasil.;Estudante+de+Engenharia+de+Software.;Bem-vindo+ao+meu+perfil!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Olá,+sou+Pedro+Braga+de+Lima.;Brasília+-+Brasil.;Estudante+de+Engenharia+de+Software.;Bem-vindo+ao+meu+perfil!+" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 Sou <strong>Pedro Braga de Lima</strong>, estudante de Engenharia de Software e estagiário na <strong>CAESB</strong>.  
 Tenho <strong>19 anos</strong>, moro em <strong>Brasília</strong> e sou apaixonado por desenvolvimento e tecnologia.  
-Atualmente cursando <strong>UCB</strong> e explorando o mundo da programação 💻✨
+Atualmente cursando na <strong>UCB</strong> e explorando o mundo da programação 
 
 </div>
 
