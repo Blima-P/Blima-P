@@ -48,20 +48,6 @@ Atualmente cursando na <strong>UCB</strong> e explorando o mundo da programaçã
 
 <div align="center">
 
-## Projetos em Destaque
-
-| Projeto | Descrição |
-|---|---|
-| [**Campo-minado**](https://github.com/Blima-P/Campo-minado) | Jogo de Campo Minado em C com Semáforos e Threads |
-| [**Estrutura-dados-Java**](https://github.com/Blima-P/Estrutura-dados-Java) | Estrutura de Dados aplicadas a um sistema hospitalar |
-| [**Projeto.simples.html**](https://github.com/Blima-P/Projeto.simples.html) | Front-End simples com HTML, CSS e JavaScript |
-
-</div>
-
----
-
-<div align="center">
-
 ## GitHub Estatísticas
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -85,7 +71,7 @@ Atualmente cursando na <strong>UCB</strong> e explorando o mundo da programaçã
 <a href="mailto:cmp.1a.pbl08120@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/****/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
