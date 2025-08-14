@@ -1,94 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Olá,+sou+Pedro+Braga+de+Lima.;Brasília+-+Brasil.;Estudante+de+Engenharia+de+Software.;Bem-vindo+ao+meu+perfil!+" />
-</p>
-
----
+###
 
 <div align="center">
-
-## Sobre Mim
-
-Sou <strong>Pedro Braga de Lima</strong>, estudante de Engenharia de Software e estagiário na <strong>CAESB</strong>.  
-Tenho <strong>19 anos</strong>, moro em <strong>Brasília</strong> e sou apaixonado por desenvolvimento e tecnologia.  
-Atualmente cursando na <strong>UCB</strong> e explorando o mundo da programação 
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
----
+###
 
 <div align="center">
-
-## Habilidades
-
-![C](https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)
-
+  <a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
----
+###
 
 <div align="center">
-
-## Estudando Atualmente
-
-![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+  <img src="https://streak-stats.demolab.com?user=blima-p&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=blima-p&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
-
-<div align="center">
-
-## GitHub Estatísticas
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Blima-p&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-p&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117" />
-</div>
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Blima-p&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## Redes Sociais
-
-<a href="https://www.instagram.com/Blima.__/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:cmp.1a.pbl08120@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Contributions
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blima-p/blima-p/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blima-p/blima-p/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blima-p/blima-p/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
+###
