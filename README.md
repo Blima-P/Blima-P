@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Braga de Lima</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -29,8 +29,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blima-p&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=blima-p&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blima-p&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=blima-p&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=90&order=3" height="170" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/blima-p/blima-p/output/snake.svg" alt="Snake animation" />
 
 ###
