@@ -35,6 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/blima-p/blima-p/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/blima-p/blima-p/output/snake.svg" alt="Snake animation" />
 
 ###
