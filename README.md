@@ -1,36 +1,44 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Pedro_Braga+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<h1 align="left"></h1>
+
+###
+
+<p align="left">Meu nome é Pedro Braga de Lima, sou estudante de Engenharia de software na UCB, Brasilia-DF</p>
+
+###
+
+<h2 align="left">Sobre mim...</h2>
+
+###
+
+<h4 align="left">Estagiario de TI pela CAESB <br>Atualmente estudando Java e SQL.</h4>
+
+###
+
+<h2 align="left">Tecnologias que eu ultilizo.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blima-p&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=blima-p&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=90&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
