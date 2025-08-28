@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro Braga de Lima, sou estudante de Engenharia de software na UCB, Brasilia-DF</p>
+<p align="left">Meu nome é Pedro Braga de Lima, Tenho 19 anos e sou de Brasilia-DF</p>
 
 ###
 
