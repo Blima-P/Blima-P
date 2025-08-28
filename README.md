@@ -12,7 +12,7 @@
 ###
 <h4>🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB)<br>
 💼 Estagiário de TI na CAESB, atuando com atividades voltadas para desenvolvimento (DEV)<br>
-📚 Atualmente focado em aprender e aplicar tecnologias como Java, SQL, e outras ferramentas de desenvolvimento web e backend.
+📚 Atualmente focado em aprender e aplicar tecnologias como Java, SQL, e outras ferramentas de desenvolvimento web e backend e futuramente mexer com IA.
 <h4/>
 
 
