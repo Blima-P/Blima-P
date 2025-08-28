@@ -10,8 +10,11 @@
 <h2 align="left">Sobre mim...</h2>
 
 ###
+<h4>🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB)<br>
+💼 Estagiário de TI na CAESB, atuando com atividades voltadas para desenvolvimento (DEV)<br>
+📚 Atualmente focado em aprender e aplicar tecnologias como Java, SQL, e outras ferramentas de desenvolvimento web e backend.
+<h4/>
 
-<h4 align="left">Estagiario de TI pela CAESB <br>Atualmente estudando Java e SQL.</h4>
 
 ###
 
