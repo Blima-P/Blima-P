@@ -17,16 +17,16 @@
   </a>
 </div>
 
-### 👩‍💻 Sobre Mim
+### Sobre Mim
 
-* 🎓 **Formação:** Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB).
-* 💼 **Atuação:** Estagiário de TI na CAESB, com foco em atividades de Desenvolvimento (DEV).
-* 📚 **Foco Atual:** Aprofundando conhecimentos e aplicando tecnologias como Java, SQL, e ferramentas de desenvolvimento Web/Backend.
-* 💡 **Futuro:** Planejando atuar na área de Inteligência Artificial (IA).
+*  **Formação:** Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB).
+*  **Atuação:** Estagiário de TI na CAESB, com foco em atividades de Desenvolvimento (DEV).
+*  **Foco Atual:** Aprofundando conhecimentos e aplicando tecnologias como Java, SQL, e ferramentas de desenvolvimento Web/Backend.
+*  **Futuro:** Planejando atuar na área de Inteligência Artificial (IA).
 
 ---
 
-### 🛠️ Minha Stack Técnica
+###  Minha Stack Técnica
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🔥 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blima-P&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Estatísticas do GitHub do Blima-P" width="400"/>
