@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o [Seu Nome]!
+# 👋 Olá, eu sou o Pedro Braga de Lima!
 
 ### Cursando 5º semestre de Engenharia de Software
 Transformando conceitos acadêmicos em soluções reais através de código limpo e muita vontade de aprender.
