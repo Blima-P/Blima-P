@@ -1,33 +1,24 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=0000FF&width=435&lines=Hi+there%2C+This+is+Pedro_Braga+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<h1 align="left"></h1>
+# 👋 Olá, eu sou o [Seu Nome]!
 
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF5ZzQzaG5jeDFmbXlqeDUycGkyOWVrd2U4bGJxaTdzbWQyZGpwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-<h3 align="center">"Estudante de Engenharia de Software | Estagiário DEV | Focado em Java, SQL e IA"</h3>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/Blima.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-### Sobre Mim
-
-*  **Formação:** Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB).
-*  **Atuação:** Estagiário de TI na CAESB, com foco em atividades de Desenvolvimento (DEV).
-*  **Foco Atual:** Aprofundando conhecimentos e aplicando tecnologias como Java, SQL, e ferramentas de desenvolvimento Web/Backend.
-*  **Futuro:** Planejando atuar na área de Inteligência Artificial (IA).
+### Cursando 5º semestre de Engenharia de Software
+Transformando conceitos acadêmicos em soluções reais através de código limpo e muita vontade de aprender.
 
 ---
 
-###  Minha Stack Técnica
+## 👨‍💻 Sobre Mim
 
+Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack**. Acredito que a tecnologia é uma ferramenta para resolver problemas e estou em busca de novos desafios para aplicar meus conhecimentos.
+
+* **Foco em Engenharia**: Aplicando os princípios de arquitetura e boas práticas aprendidos na faculdade em projetos práticos.
+* **Learnability & Adaptabilidade**: Alta capacidade de aprendizado autônomo, absorvendo novas stacks e ferramentas rapidamente.
+* **Mentalidade Colaborativa**: Experiência com Git/GitHub e metodologias ágeis em projetos de equipe.
+* **Entusiasta de IA**: Explorando como ferramentas de IA podem otimizar o fluxo de desenvolvimento e a qualidade do código.
+
+---
+
+## 🛠️ Stack de Estudos
+
+### **Tecnologias que mais utilizo**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
@@ -50,16 +41,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
+### **Ferramentas & Workflow**
+* **Editor:** Intelij IDEA / VS Code
+* **IA:** Claude, Gemini e GitHub Copilot
+* **DevOps:** Docker (básico), Vercel, Git
+
 ---
 
-###  Minhas Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blima-P&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Estatísticas do GitHub do Blima-P" width="400"/>
-  <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-P&layout=compact&theme=dark&hide_border=false" alt="Linguagens mais usadas pelo Blima-P" width="400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rstar327&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&layout=compact&theme=nord" />
 </div>
 
+---
+
+## 📈 Contribuições
+//Arrumar depois
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📫 Contato
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Blima-P&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/Blima.__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Estudante de Engenharia de Software • Apaixonado por tecnologia</sub>
 </div>
