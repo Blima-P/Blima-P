@@ -41,19 +41,12 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
+---
+
 ### **Ferramentas & Workflow**
 * **Editor:** Intelij IDEA / VS Code
 * **IA:** Claude, Gemini e GitHub Copilot
 * **DevOps:** Docker (básico), Vercel, Git
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rstar327&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&layout=compact&theme=nord" />
-</div>
 
 ---
 
