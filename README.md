@@ -1,3 +1,7 @@
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header" 
+/>
 # 👋 Olá, eu sou o Pedro Braga de Lima!
 
 ### Cursando 5º semestre de Engenharia de Software
@@ -41,8 +45,6 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
----
-
 ### **Ferramentas & Workflow**
 * **Editor:** Intelij IDEA / VS Code
 * **IA:** Claude, Gemini e GitHub Copilot
@@ -51,10 +53,11 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
 ---
 
 ## 📈 Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -75,3 +78,7 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
 <div align="center">
   <sub>Estudante de Engenharia de Software • Apaixonado por tecnologia</sub>
 </div>
+<img 
+    width=100% 
+    src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"
+/>
