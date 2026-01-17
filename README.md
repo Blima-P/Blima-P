@@ -1,26 +1,8 @@
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header" 
-/>
-# 👋 Olá, eu sou o Pedro Braga de Lima!
+
+# Pedro Braga de Lima
 
 ### Cursando 5º semestre de Engenharia de Software
-Transformando conceitos acadêmicos em soluções reais através de código limpo e muita vontade de aprender.
-
----
-
-## 👨‍💻 Sobre Mim
-
-Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack**. Acredito que a tecnologia é uma ferramenta para resolver problemas e estou em busca de novos desafios para aplicar meus conhecimentos.
-
-* **Foco em Engenharia**: Aplicando os princípios de arquitetura e boas práticas aprendidos na faculdade em projetos práticos.
-* **Learnability & Adaptabilidade**: Alta capacidade de aprendizado autônomo, absorvendo novas stacks e ferramentas rapidamente.
-* **Mentalidade Colaborativa**: Experiência com Git/GitHub e metodologias ágeis em projetos de equipe.
-* **Entusiasta de IA**: Explorando como ferramentas de IA podem otimizar o fluxo de desenvolvimento e a qualidade do código.
-
----
-
-## 🛠️ Stack de Estudos
+Fullstack developer
 
 ### **Tecnologias que mais utilizo**
 <div align="center">
@@ -45,21 +27,6 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-### **Ferramentas & Workflow**
-* **Editor:** Intelij IDEA / VS Code
-* **IA:** Claude, Gemini e GitHub Copilot
-* **DevOps:** Docker (básico), Vercel, Git
-
----
-
-## 📈 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blima-p/Blima-p/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 📫 Contato
@@ -78,7 +45,3 @@ Atualmente focado em construir uma base sólida como **Desenvolvedor Full Stack*
 <div align="center">
   <sub>Estudante de Engenharia de Software • Apaixonado por tecnologia</sub>
 </div>
-<img 
-    width=100% 
-    src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"
-/>
