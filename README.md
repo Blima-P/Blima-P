@@ -1,47 +1,24 @@
+# Hey, I'm Pedro 👋
 
-# Pedro Braga de Lima
+Software Engineering student at **Universidade Católica de Brasília** and IT Intern at **CAESB**, where I work on improving fullstack internal systems using Java, React, and Azure.
 
-### Cursando 5º semestre de Engenharia de Software
-Fullstack developer
+Currently exploring different areas of software development to expand my skill set and find my long-term focus.
 
-### **Tecnologias que mais utilizo**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+## 🛠 Tech Stack
 
----
+**Languages:** Java • JavaScript • Python • C • C++  
+**Frontend:** React • HTML5 • CSS • XHTML  
+**Backend & DB:** Spring Boot • MySQL  
+**Cloud:** Azure  
+**Tools:** Git • GitHub • VS Code • Scrum  
 
-## 📫 Contato
+## 📌 Currently
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-braga-de-lima-633717303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/Blima.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+- 🎓 Studying Software Engineering (2024–2028)
+- 💼 IT Intern at CAESB — fullstack development & system improvements
+- 📚 Expanding my stack and exploring new technologies
 
----
+## 📫 Get in Touch
 
-<div align="center">
-  <sub>Estudante de Engenharia de Software • Apaixonado por tecnologia</sub>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Blima-P)
