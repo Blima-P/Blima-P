@@ -1,4 +1,4 @@
-# Hey, I'm Pedro 👋
+# Hey, I'm Pedro 
 
 Software Engineering student at **Universidade Católica de Brasília** and IT Intern at **CAESB**, where I work on improving fullstack internal systems using Java, React, and Azure.
 
@@ -14,9 +14,9 @@ Currently exploring different areas of software development to expand my skill s
 
 ## Currently
 
-- 🎓 Studying Software Engineering (2024–2028)
-- 💼 IT Intern at CAESB — fullstack development & system improvements
-- 📚 Expanding my stack and exploring new technologies
+-  Studying Software Engineering (2024–2028)
+-  IT Intern at CAESB — fullstack development & system improvements
+-  Expanding my stack and exploring new technologies
 
 ## Get in Touch
 
