@@ -4,7 +4,7 @@ Currently exploring different areas of software development to expand my skill s
 
 ## Tech Stack
 
-**Languages:** Java • JavaScript • C   
+**Languages:** Java • JavaScript 
 **Frontend:** React • HTML5 • CSS • XHTML  
 **Backend & DB:** Spring Boot • MySQL  
 **Cloud:** Azure  
