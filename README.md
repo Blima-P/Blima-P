@@ -1,4 +1,4 @@
-Software Engineering student at **Universidade Católica de Brasília** and IT Intern at **CAESB**, where I work on improving fullstack internal systems using Java, React.
+Software Engineering student at **Universidade Católica de Brasília** and IT Intern at **CAESB**, where I work on improving fullstack internal systems using Java, React
 
 Currently exploring different areas of software development to expand my skill set and find my long-term focus
 
