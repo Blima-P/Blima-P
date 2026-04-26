@@ -12,7 +12,7 @@ Currently exploring different areas of software development to expand my skill s
 
 ## Currently
 
--  Studying Software Engineering at UCB (2024–2028) 
+-  Studying Software Engineering at UCB (2024–2027) 
 -  IT Intern at CAESB — fullstack development & system improvements
 -  Expanding my stack and exploring new technologies
 
