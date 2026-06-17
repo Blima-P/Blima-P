@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Pedro Braga de Lima 👋</h1>
+<h1 align="center">Hey there! I'm Pedro Braga de Lima </h1>
 
 <p align="center">
   <em>Software Engineering student at <strong>Universidade Católica de Brasília</strong> and IT Intern at <strong>CAESB</strong>, where I work on improving fullstack internal systems using Java, React and Azure.</em>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blima-P&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
@@ -66,15 +66,15 @@
 
 ---
 
-## 🎓 Currently
+##  Currently
 
-- 📚 Studying Software Engineering at UCB (2024–2027)
-- 💼 IT Intern at CAESB — fullstack development & system improvements
-- 🚀 Expanding my stack and exploring new technologies
+-  Studying Software Engineering at UCB (2024–2027)
+-  IT Intern at CAESB — fullstack development & system improvements
+-  Expanding my stack and exploring new technologies
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blima-P)
