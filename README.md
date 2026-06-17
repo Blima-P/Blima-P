@@ -1,4 +1,4 @@
-### Hey, I'm Pedro 👋
+### Hey, I'm Pedro 
 
 Software Engineering student at **UCB** · IT Intern at **CAESB**  
 Building fullstack systems with Java, React & Azure
