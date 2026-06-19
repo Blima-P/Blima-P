@@ -11,7 +11,7 @@ Building fullstack systems with Java, React & Azure
 
 ---
 
-#### 🔨 What I've been working on
+#### What I've been working on
 
 - [**Portfolio**](https://github.com/Blima-P/Portfolio) — Personal site with dark/light mode, particles, i18n & GitHub API integration
 - [**Campo Minado**](https://github.com/Blima-P/Campo-minado) — Multiplayer minesweeper in C with POSIX threads & semaphores
