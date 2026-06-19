@@ -16,7 +16,7 @@ Building fullstack systems with Java, React & Azure
 - [**Portfolio**](https://github.com/Blima-P/Portfolio) — Personal site with dark/light mode, particles, i18n & GitHub API integration
 - [**Campo Minado**](https://github.com/Blima-P/Campo-minado) — Multiplayer minesweeper in C with POSIX threads & semaphores
 - [**ERP Acadêmico**](https://github.com/Blima-P/ERP-Academico) — Academic management system in React
-- [**Detector CAESB**](https://github.com/Blima-P/Detector-Caesb) — Automated detection of fake sponsored sites + RPA reporting
+- [**Projeto AcidentesPRF**](https://github.com/Blima-P/Projeto_AcidentesPRF) — Analysis of the Impact of Weather Conditions on Accident Severity on Brazilian Federal Highways (PRF 2024)
 
 ---
 
