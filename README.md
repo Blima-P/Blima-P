@@ -1,31 +1,45 @@
-### Hey, I'm Pedro 
+# Pedro Braga de Lima
 
-Software Engineering student at **UCB** · IT Intern at **CAESB**  
-Building fullstack systems with Java, React & Azure
+Desenvolvimento de software com Java, Spring e SQL.
 
----
+Sou estudante de Engenharia de Software na Universidade Católica de
+Brasília, com conclusão prevista para dezembro de 2027, e estagiário de
+desenvolvimento na CAESB, atuando em migração, melhoria e implementação
+de sistemas.
 
-#### ⚡ Stack
+Busco oportunidades como Desenvolvedor de Software Júnior ou
+Analista de Desenvolvimento de Sistemas Júnior, com foco em backend.
 
-`Java` `TypeScript` `Python` `C` `React` `Spring Boot` `Node.js` `MySQL` `Azure` `Git`
+## Tecnologias e aprendizado
 
----
+- **Stack principal:** Java, Spring e SQL.
+- **Análise de dados:** Python e pandas.
+- **Desenvolvimento web em projetos:** React, JavaScript, HTML e CSS.
+- **Estudando:** Machine Learning e Deep Learning.
+- **Direção de carreira:** engenharia de IA e aplicações com LLMs.
 
-#### What I've been working on
+## Projetos em destaque
 
-- [**Portfolio**](https://github.com/Blima-P/Portfolio) — Personal site with dark/light mode, particles, i18n & GitHub API integration
-- [**Campo Minado**](https://github.com/Blima-P/Campo-minado) — Multiplayer minesweeper in C with POSIX threads & semaphores
-- [**ERP Acadêmico**](https://github.com/Blima-P/ERP-Academico) — Academic management system in React
-- [**Projeto AcidentesPRF**](https://github.com/Blima-P/Projeto_AcidentesPRF) — Analysis of the Impact of Weather Conditions on Accident Severity on Brazilian Federal Highways (PRF 2024)
+### [ERP Acadêmico](https://github.com/Blima-P/ERP-Academico)
+Projeto acadêmico desenvolvido em equipe com React e Firebase.
+Gestão de alunos, cursos e matrículas, com autenticação,
+relatórios e exportação CSV.
 
----
+### [Análise de Acidentes da PRF](https://github.com/Blima-P/Projeto_AcidentesPRF)
+Projeto acadêmico em equipe para explorar relações entre condições
+meteorológicas e gravidade dos acidentes registrados pela PRF.
+Utiliza Python, pandas e Streamlit para análise e visualização dos dados.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blima-P&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blima-P&layout=compact&theme=dark&hide_border=true&hide_title=true" height="150" />
-</p>
+### [Credit Default Prediction](https://github.com/Blima-P/credit-default-prediction)
+Projeto de aprendizado em desenvolvimento, voltado à previsão de
+inadimplência com dados públicos da UCI.
+Etapa atual: carregamento e inspeção inicial dos dados.
+Próximas etapas: construir e comparar modelos de classificação.
 
----
+### [Portfólio](https://github.com/Blima-P/Portfolio)
+Site pessoal desenvolvido com HTML, CSS e JavaScript,
+com suporte a português e inglês e integração com a API do GitHub.
 
-<sub>📍 Brasília, DF · [LinkedIn](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/) · Open to opportunities</sub>
+## Contato
 
+[LinkedIn](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/)
