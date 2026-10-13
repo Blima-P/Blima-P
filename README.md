@@ -1,6 +1,6 @@
 # Pedro Braga de Lima
 
-Desenvolvimento de software com Java, Spring e SQL.
+Desenvolvimento backend com Java, Spring e PostgreSQL.
 
 Sou estudante de Engenharia de Software na Universidade Católica de
 Brasília, com conclusão prevista para dezembro de 2027, e estagiário de
@@ -12,7 +12,7 @@ Analista de Desenvolvimento de Sistemas Júnior, com foco em backend.
 
 ## Tecnologias e aprendizado
 
-- **Stack principal:** Java, Spring e SQL.
+- **Stack principal:** Java, Spring e PostgreSQL.
 - **Análise de dados:** Python e pandas.
 - **Desenvolvimento web em projetos:** React, JavaScript, HTML e CSS.
 - **Estudando:** Machine Learning e Deep Learning.
@@ -22,10 +22,11 @@ Analista de Desenvolvimento de Sistemas Júnior, com foco em backend.
 
 ### [Carteira API](https://github.com/Blima-P/carteira-api)
 API REST de carteira digital com cadastro, login JWT, depósitos,
-transferências entre usuários e extrato.
+transferências entre usuários e consulta de saldo.
 Transações ACID, idempotência, arquitetura modular com Spring Modulith,
 migrações com Flyway e CI no GitHub Actions.
 Java 21, Spring Boot e PostgreSQL.
+Extrato paginado está no roadmap; ainda não há endpoint de extrato.
 
 ### [Campo Minado Multiplayer](https://github.com/Blima-P/Campo-minado)
 Jogo multiplayer no terminal escrito em C para a disciplina de
