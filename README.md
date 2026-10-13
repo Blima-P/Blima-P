@@ -20,6 +20,17 @@ Analista de Desenvolvimento de Sistemas Júnior, com foco em backend.
 
 ## Projetos em destaque
 
+### [Carteira API](https://github.com/Blima-P/carteira-api)
+API REST de carteira digital com cadastro, login JWT, depósitos,
+transferências entre usuários e extrato.
+Transações ACID, idempotência, arquitetura modular com Spring Modulith,
+migrações com Flyway e CI no GitHub Actions.
+Java 21, Spring Boot e PostgreSQL.
+
+### [Campo Minado Multiplayer](https://github.com/Blima-P/Campo-minado)
+Jogo multiplayer no terminal escrito em C para a disciplina de
+Sistemas Operacionais, com concorrência usando threads e semáforos POSIX.
+
 ### [ERP Acadêmico](https://github.com/Blima-P/ERP-Academico)
 Projeto acadêmico desenvolvido em equipe com React e Firebase.
 Gestão de alunos, cursos e matrículas, com autenticação,
@@ -39,7 +50,10 @@ Próximas etapas: construir e comparar modelos de classificação.
 ### [Portfólio](https://github.com/Blima-P/Portfolio)
 Site pessoal desenvolvido com HTML, CSS e JavaScript,
 com suporte a português e inglês e integração com a API do GitHub.
+Acesse: [blima-p.github.io/Portfolio](https://blima-p.github.io/Portfolio/)
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/)
+[LinkedIn](https://www.linkedin.com/in/pedro-braga-de-lima-633717303/) ·
+[Portfólio](https://blima-p.github.io/Portfolio/) ·
+[E-mail](mailto:pbl0812@gmail.com)
