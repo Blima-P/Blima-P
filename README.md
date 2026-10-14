@@ -28,10 +28,6 @@ migrações com Flyway e CI no GitHub Actions.
 Java 21, Spring Boot e PostgreSQL.
 Extrato paginado está no roadmap; ainda não há endpoint de extrato.
 
-### [Campo Minado Multiplayer](https://github.com/Blima-P/Campo-minado)
-Jogo multiplayer no terminal escrito em C para a disciplina de
-Sistemas Operacionais, com concorrência usando threads e semáforos POSIX.
-
 ### [ERP Acadêmico](https://github.com/Blima-P/ERP-Academico)
 Projeto acadêmico desenvolvido em equipe com React e Firebase.
 Gestão de alunos, cursos e matrículas, com autenticação,
