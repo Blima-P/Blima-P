@@ -13,8 +13,8 @@ Analista de Desenvolvimento de Sistemas Júnior, com foco em backend.
 ## Tecnologias e aprendizado
 
 - **Stack principal:** Java, Spring e PostgreSQL.
-- **Análise de dados:** Python e pandas.
-- **Desenvolvimento web em projetos:** React, JavaScript, HTML e CSS.
+- **Python:** APIs com FastAPI e análise de dados com pandas.
+- **Desenvolvimento web em projetos:** React, TypeScript, JavaScript, HTML e CSS.
 - **Estudando:** Machine Learning e Deep Learning.
 - **Direção de carreira:** engenharia de IA e aplicações com LLMs.
 
@@ -38,11 +38,14 @@ Projeto acadêmico em equipe para explorar relações entre condições
 meteorológicas e gravidade dos acidentes registrados pela PRF.
 Utiliza Python, pandas e Streamlit para análise e visualização dos dados.
 
-### [Credit Default Prediction](https://github.com/Blima-P/credit-default-prediction)
-Projeto de aprendizado em desenvolvimento, voltado à previsão de
-inadimplência com dados públicos da UCI.
-Etapa atual: carregamento e inspeção inicial dos dados.
-Próximas etapas: construir e comparar modelos de classificação.
+### [InvestStart](https://github.com/Blima-P/InvestStart)
+Aplicação web educativa para quem nunca investiu. Coleta dados
+atualizados de ações, FIIs, Tesouro Direto, ETFs e criptomoedas
+e sugere uma carteira diversificada conforme o perfil do investidor,
+explicando cada escolha em linguagem simples.
+Python, FastAPI e React com TypeScript.
+Em desenvolvimento: backend estruturado com testes e lint;
+próximas etapas são o frontend e a coleta de dados de mercado.
 
 ### [Portfólio](https://github.com/Blima-P/Portfolio)
 Site pessoal desenvolvido com HTML, CSS e JavaScript,
