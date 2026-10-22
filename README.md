@@ -19,6 +19,20 @@ Aberto a oportunidades em desenvolvimento de software júnior.
 
 ## Projetos selecionados
 
+### [Portfólio](https://github.com/Blima-P/Portfolio)
+
+Portfólio pessoal responsivo, em português e inglês, com tema claro/escuro
+e integração com a API do GitHub. Desenvolvido do zero, sem frameworks.
+
+`HTML` `CSS` `JavaScript`
+
+### [SocialTech](https://github.com/Blima-P/SocialTech)
+
+Projeto de extensão da UCB em parceria com Enactus, voltado ao descarte
+correto de resíduos orgânicos. Site educativo em desenvolvimento.
+
+`Astro` `TypeScript`
+
 ### [Carteira API](https://github.com/Blima-P/carteira-api)
 
 API de carteira digital com autenticação JWT, transferências atômicas,
@@ -26,21 +40,6 @@ idempotência e extrato paginado. Arquitetura modular e testes de integração
 e concorrência.
 
 `Java 21` `Spring Boot` `Spring Modulith` `PostgreSQL`
-
-### [ERP Acadêmico](https://github.com/Blima-P/ERP-Academico)
-
-Gestão de alunos, cursos e matrículas, com autenticação, relatórios e
-exportação CSV. Projeto acadêmico desenvolvido em equipe.
-
-`React` `JavaScript` `Firebase`
-
-### [Análise de Acidentes da PRF](https://github.com/Blima-P/Projeto_AcidentesPRF)
-
-Análise exploratória de acidentes em rodovias federais, com filtros e
-visualizações sobre clima e gravidade. Projeto acadêmico em equipe,
-publicado neste fork.
-
-`Python` `pandas` `Streamlit`
 
 ---
 
@@ -67,6 +66,20 @@ and contact details are available at the top of this page.
 
 ## Selected projects
 
+### [Portfolio](https://github.com/Blima-P/Portfolio)
+
+Responsive personal portfolio in Portuguese and English, with light/dark
+themes and GitHub API integration. Built from scratch, without frameworks.
+
+`HTML` `CSS` `JavaScript`
+
+### [SocialTech](https://github.com/Blima-P/SocialTech)
+
+A UCB university extension project in partnership with Enactus, focused
+on proper organic waste disposal. Educational website under development.
+
+`Astro` `TypeScript`
+
 ### [Carteira API](https://github.com/Blima-P/carteira-api)
 
 Digital wallet API with JWT authentication, atomic transfers, idempotency
@@ -74,20 +87,5 @@ and cursor-paginated statements. Modular architecture with integration
 and concurrency tests.
 
 `Java 21` `Spring Boot` `Spring Modulith` `PostgreSQL`
-
-### [Academic ERP](https://github.com/Blima-P/ERP-Academico)
-
-Student, course and enrollment management with authentication, reports
-and CSV export. A university team project.
-
-`React` `JavaScript` `Firebase`
-
-### [PRF Road Accident Analysis](https://github.com/Blima-P/Projeto_AcidentesPRF)
-
-Exploratory analysis of accidents on Brazilian federal highways, with
-filters and visualizations of weather conditions and accident severity.
-A university team project, published in this fork.
-
-`Python` `pandas` `Streamlit`
 
 </details>
