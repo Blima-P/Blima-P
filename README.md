@@ -17,7 +17,7 @@ Aberto a oportunidades em desenvolvimento de software júnior.
 - **Frontend:** React · TypeScript · JavaScript · HTML · CSS
 - **Dados:** Python · pandas · Streamlit
 
-## Projetos selecionados
+## Projetos
 
 ### [Portfólio](https://github.com/Blima-P/Portfolio)
 
