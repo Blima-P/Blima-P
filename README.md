@@ -1,4 +1,4 @@
-# Pedro Braga de Lima
+## Pedro Braga de Lima
 
 **Desenvolvimento fullstack · Java, Spring e React**
 
