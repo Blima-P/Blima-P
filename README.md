@@ -72,11 +72,11 @@ interativo e qualidade validada por testes, lint e Lighthouse.
 
 `HTML` `CSS` `JavaScript` `GitHub Actions` `Playwright`
 
-## Certificações
+## Certificação e cursos
 
-- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/655b6604-f9b6-4058-8620-5f69eaf540bd/linked_in_profile)** — AWS, 2026
-- **[Supervised Machine Learning: Regression and Classification](https://coursera.org/verify/GWAOD4JYC1WC)** — Stanford Online, 2026
-- **[Data Analysis with Pandas and Python](https://www.udemy.com/certificate/UC-42831794-09f7-4631-b16b-dcc3bab77404/)** — Udemy, 2026
+- **Certificação profissional:** [AWS Certified Cloud Practitioner](https://www.credly.com/badges/655b6604-f9b6-4058-8620-5f69eaf540bd/linked_in_profile) — AWS, 2026
+- **Curso concluído:** [Supervised Machine Learning: Regression and Classification](https://coursera.org/verify/GWAOD4JYC1WC) — Stanford Online, 2026
+- **Curso concluído:** [Data Analysis with Pandas and Python](https://www.udemy.com/certificate/UC-42831794-09f7-4631-b16b-dcc3bab77404/) — Udemy, 2026
 
 ## Atualmente
 
